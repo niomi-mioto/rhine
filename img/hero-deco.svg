@@ -1,0 +1,11 @@
+<svg viewBox="0 0 600 800" fill="none" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice">
+        <circle cx="400" cy="400" r="320" stroke="rgba(201,151,59,0.6)" stroke-width="1"></circle>
+        <circle cx="400" cy="400" r="220" stroke="rgba(62,114,236,0.5)" stroke-width="0.8"></circle>
+        <circle cx="400" cy="400" r="120" stroke="rgba(201,151,59,0.4)" stroke-width="0.6"></circle>
+        <line x1="80" y1="400" x2="720" y2="400" stroke="rgba(255,255,255,0.2)" stroke-width="0.5"></line>
+        <line x1="400" y1="80" x2="400" y2="720" stroke="rgba(255,255,255,0.2)" stroke-width="0.5"></line>
+        <circle cx="400" cy="80" r="5" fill="rgba(201,151,59,0.8)"></circle>
+        <circle cx="720" cy="400" r="5" fill="rgba(62,114,236,0.8)"></circle>
+        <circle cx="400" cy="720" r="5" fill="rgba(201,151,59,0.8)"></circle>
+        <circle cx="80" cy="400" r="5" fill="rgba(62,114,236,0.8)"></circle>
+      </svg>
