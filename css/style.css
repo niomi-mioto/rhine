@@ -395,6 +395,18 @@ button {
 		transform: translateX(-50%) translateY(calc(-50% + 7px)) rotate(0deg);
 	}
 
+	html:has(.menu.open) .menu-trigger>*:nth-child(1) {
+		transform: translateX(-50%) translateY(-50%) rotate(-135deg);
+	}
+
+	html:has(.menu.open) .menu-trigger>*:nth-child(2) {
+		opacity: 0;
+	}
+
+	html:has(.menu.open) .menu-trigger>*:nth-child(3) {
+		transform: translateX(-50%) translateY(-50%) rotate(135deg);
+	}
+
 	.menu {
 		position: fixed;
 		top: 0;
